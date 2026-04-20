@@ -90,12 +90,40 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
+| PORT-01 | Phase 1 | Pending |
+| PORT-02 | Phase 1 | Pending |
+| PORT-03 | Phase 1 | Pending |
+| SRC-01 | Phase 2 | Pending |
+| SRC-02 | Phase 2 | Pending |
+| SRC-03 | Phase 2 | Pending |
+| SYNC-01 | Phase 2 | Pending |
+| SYNC-02 | Phase 2 | Pending |
+| SYNC-03 | Phase 2 | Pending |
+| SYNC-04 | Phase 2 | Pending |
+| CONF-01 | Phase 2 | Pending |
+| CONF-02 | Phase 2 | Pending |
+| CONF-03 | Phase 2 | Pending |
+| PORT-04 | Phase 3 | Pending |
+| ALLO-01 | Phase 3 | Pending |
+| ALLO-02 | Phase 3 | Pending |
+| ALLO-03 | Phase 3 | Pending |
+| ALLO-04 | Phase 3 | Pending |
+| ALLO-05 | Phase 3 | Pending |
+| ALLO-06 | Phase 3 | Pending |
+| ALLO-07 | Phase 3 | Pending |
+| REBL-01 | Phase 4 | Pending |
+| REBL-02 | Phase 4 | Pending |
+| HIST-01 | Phase 5 | Pending |
+| HIST-02 | Phase 5 | Pending |
+| HIST-03 | Phase 5 | Pending |
+| DEPL-01 | Phase 5 | Pending |
+| DEPL-02 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 27 total
-- Mapped to phases: 0
-- Unmapped: 27 ⚠️
+- Mapped to phases: 27
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-04-20*
-*Last updated: 2026-04-20 after initial definition*
+*Last updated: 2026-04-20 after roadmap creation*
